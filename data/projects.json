@@ -1,0 +1,110 @@
+[
+  {
+    "title": "SkLive",
+    "name": "sklive",
+    "description": "Online Chatting App with Video Call Feature",
+    "overview": [
+      "SkLive is an online chatting application that includes a video call feature, making it easy to stay connected with friends and family.",
+      "The application supports real-time messaging and video calls, providing a seamless communication experience.",
+      "SkLive is built using Node.js for the server-side, MongoDB for the database, and Socket.io for real-time communication. The front-end is designed to be user-friendly and responsive."
+    ],
+    "imageUrl": "/images/projects/sklive.png",
+    "imageIsPortrait": true,
+    "techStack": ["Node", "Mongodb", "Sockets.io", "Express"],
+    "sourceUrl": "https://github.com/kevinchangjk/PayScribe"
+  },
+  {
+    "title": "RecognizeMe",
+    "name": "recognizeme",
+    "description": "A desktop AI application for facial recognition",
+    "overview": [
+      "RecognizeMe is a desktop application designed for facial recognition using AI technology. This project was developed during my internship in summer 2023.",
+      "The application utilizes advanced facial recognition algorithms to accurately identify individuals. It is built with a user-friendly interface to ensure ease of use.",
+      "The front-end is built with Tkinter, while the back-end is powered by Flask. The application leverages OpenCV for image processing and Facenet for facial recognition."
+    ],
+    "imageUrl": "/images/projects/recognizeme.png",
+    "imageIsPortrait": false,
+    "techStack": ["Tkinter", "OpenCv", "Facenet", "Flask"],
+    "sourceUrl": "https://github.com/yourusername/recognizeme"
+  },
+  {
+    "title": "House Price Prediction",
+    "name": "nft-artzone",
+    "description": "Create and claim NFTs of curated AI art",
+    "overview": [
+      "ArtZone is a platform specially crafted to be a community for AI artists to share their artwork. Here, artists can upload their digital AI art in albums, and viewers can browse through galleries of their art.",
+      "NFT @ ArtZone aims to allow artists to monetize their artwork by providing a bridge for them to market their work as NFTs, through a function known as “Claim Pages”. Artists can deploy an artwork as an Non-Fungible Token (NFT), allowing customers to claim one at a listed price.",
+      "I began work on this from scratch, during an internship in summer 2023, though unfortunately my internship ended before I could complete it. The front-end is built with Next.js and Chakra-UI, and the back-end is hosted through Express.js, and supported with Ethers.js to interact with Solidity smart contracts on the Binance Chain."
+    ],
+    "imageUrl": "/images/projects/nft-artzone.png",
+    "imageIsPortrait": false,
+    "techStack": ["Next.js", "Express.js", "IPFS", "Ethers.js", "TypeScript"]
+  },
+  {
+    "title": "Transport Management System",
+    "name": "transport-management-system",
+    "description": "A Web App Admin Panel for managing transport Routes and Subroutes",
+    "overview": [
+      "The Transport Management System is a web application designed to provide an admin panel for managing transport routes and subroutes. This system is linked with the University App to ensure seamless integration and management of transport services.",
+      "The admin panel allows users to create, update, and delete transport routes and subroutes, ensuring efficient management of the university's transport system. The application also provides real-time updates and notifications to keep users informed about any changes in the transport schedule."
+    ],
+    "imageUrl": "/images/projects/transport-management-system.png",
+    "imageIsPortrait": true,
+    "techStack": ["Node", "Firebase", "Express", "Ejs"],
+    "sourceUrl": "https://github.com/VMP-SG/TransportManagementSystem"
+  },
+  {
+    "title": "Share Url Bitly",
+    "name": "share-url-bitly",
+    "description": "A Wordpress Plugin for shortening URLs with Bitly",
+    "overview": [
+      "Share Url Bitly was a project submission for Appetizer Hackathon 2022, an API-centric hackathon with assigned APIs to develop with. My group chose to work with the Bitly API to build a Wordpress plugin for shortening URLs.",
+      "This was a hackathon project, and we won in that. The plugin allows users to easily shorten URLs directly from their Wordpress site, making it convenient for sharing links.",
+      "The front-end is built with PHP and integrated into Wordpress, while the back-end utilizes the Bitly API for URL shortening."
+    ],
+    "imageUrl": "/images/projects/share-url-bitly.png",
+    "imageIsPortrait": false,
+    "techStack": ["PHP", "BitlyAPI", "Wordpress"],
+    "sourceUrl": "https://github.com/Onlyfriendz/share-url-bitly"
+  },
+  {
+    "title": "E-Commerce Website",
+    "name": "e-commerce-website",
+    "description": "A Full-Stack E-Commerce Website",
+    "overview": [
+      "This project is a full-stack e-commerce website built using the MERN stack. The website features a clean and modern design, with sections for products, categories, and user accounts.",
+      "The front-end of the website is built using React, with Redux for state management. The back-end is built using Node.js and Express, with MongoDB as the database. The website also features user authentication and authorization, with JWT tokens for secure access."
+    ],
+    "imageUrl": "/images/projects/e-commerce-website.png",
+    "imageIsPortrait": false,
+    "techStack": ["React", "Redux", "Node.js", "Express", "MongoDB"],
+    "sourceUrl": "https://github.com/VMP-SG/CraiyoNFT"
+  },
+  {
+    "title": "Portfolio Website",
+    "name": "portfolio-website",
+    "description": "A Website for Personal Portfolio",
+    "overview": [
+      "This project is a personal portfolio website designed to showcase my projects, skills, and experiences. The website is built to be responsive and user-friendly, providing visitors with an easy way to navigate through my work.",
+      "The front-end of the website is built using Next.js and React, with Chakra-UI for styling. The website features a clean and modern design, with sections for my projects, skills, and contact information."
+    ],
+    "imageUrl": "/images/projects/portfolio-website.png",
+    "imageIsPortrait": false,
+    "techStack": ["Next.js", "React", "Chakra-UI"],
+    "sourceUrl": "https://github.com/yourusername/portfolio-website"
+  }
+  ,
+  {
+    "title": "Assignment Management System",
+    "name": "assignment-management-system",
+    "description": "Java Desktop Application for managing Assignments and Student Data",
+    "overview": [
+      "A relatively longer-term project, completed as part of my coursework at the Quaid I Azam University Islamabad, in a course called Software Engineering, CS2103T. This application is designed for managing assignments and student data efficiently, and is designed for use mainly through a command-line like interface.",
+      "As a requirement of the course, the application is built using Java, with JavaSwing as the front-end library."
+    ],
+    "imageUrl": "/images/projects/assignment-management-system.png",
+    "imageIsPortrait": false,
+    "techStack": ["Java", "JavaSwing", "Jdbc", "mysql"],
+    "sourceUrl": "https://github.com/AY2223S1-CS2103T-T15-1/tp"
+  }
+]

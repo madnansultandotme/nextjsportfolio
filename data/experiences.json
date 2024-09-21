@@ -1,0 +1,42 @@
+{
+  "work": [
+    {
+      "title": "AI Engineer Intern",
+      "type": "Internship",
+      "location": "National Center For Physics(AITech)",
+      "period": "Aug 2024 – Present"
+    },
+    {
+      "title": "TechOPs Lead ",
+     "type": "Part Time",
+     "location": "MLSA QAU",
+     "period": "June 2024 – Present"
+   },
+   {
+      "title": "Digital Product Manager",
+      "type": "Remote",
+      "location": "The Daily Frontier",
+      "period": "Dec 2024 –  Present"
+    },
+    {
+      "title": "The Front End Intern",
+      "type": "Internship",
+      "location": "Internee.pk",
+      "period": "Sep 2023 – Oct 2023"
+    }
+  ],
+  "education": [
+    {
+      "title": "Bachelor's in Computer Science",
+      "type": "Bachelor's",
+      "location": "Quaid I Azam University Islamabad",
+      "period": "Sep 2021 – Oct 2025"
+    },
+    {
+      "title": "Intermediate in Computer Science",
+      "type": "Intermediate",
+      "location": "Punjab College Pakpattan",
+      "period": "Aug 2019 – Aug 2021"
+    }
+  ]
+}

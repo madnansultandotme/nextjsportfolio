@@ -1,0 +1,104 @@
+{
+  "techStack": [
+    {
+      "name": "typescript",
+      "imageUrl": "/images/tech-stack/typescript.svg",
+      "sourceUrl": "https://www.typescriptlang.org/"
+    },
+    {
+      "name": "python",
+      "imageUrl": "/images/tech-stack/python.svg",
+      "sourceUrl": "https://www.python.org/"
+    },
+    {
+      "name": "javascript",
+      "imageUrl": "/images/tech-stack/js.svg",
+      "sourceUrl": "https://www.javascript.com/"
+    },
+    {
+      "name": "html",
+      "imageUrl": "/images/tech-stack/html.svg",
+      "sourceUrl": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+    },
+    {
+      "name": "css",
+      "imageUrl": "/images/tech-stack/css.svg",
+      "sourceUrl": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+    },
+    {
+      "name": "bootstrap",
+      "imageUrl": "/images/tech-stack/bootstrap.svg",
+      "sourceUrl": "https://getbootstrap.com/"
+    },
+    {
+      "name": "tailwind",
+      "imageUrl": "/images/tech-stack/tailwind.svg",
+      "sourceUrl": "https://tailwindcss.com/"
+    },
+    {
+      "name": "react",
+      "imageUrl": "/images/tech-stack/react.svg",
+      "sourceUrl": "https://react.dev/"
+    },
+    {
+      "name": "node",
+      "imageUrl": "/images/tech-stack/node.svg",
+      "sourceUrl": "https://nodejs.org/en/about"
+    },
+    {
+      "name": "postgres",
+      "imageUrl": "/images/tech-stack/postgres.svg",
+      "sourceUrl": "https://www.postgresql.org/"
+    },
+    {
+      "name": "mysql",
+      "imageUrl": "/images/tech-stack/mysql.svg",
+      "sourceUrl": "https://www.mysql.com/"
+    },
+    {
+      "name": "android",
+      "imageUrl": "/images/tech-stack/android.svg",
+      "sourceUrl": "https://www.android.com/"
+    },
+    {
+      "name": "vscode",
+      "imageUrl": "/images/tech-stack/vscode.svg",
+      "sourceUrl": "https://code.visualstudio.com/"
+    },
+    {
+      "name": "hostinger",
+      "imageUrl": "/images/tech-stack/hostinger.svg",
+      "sourceUrl": "https://www.hostinger.com/"
+    },
+    {
+      "name": "laravel",
+      "imageUrl": "/images/tech-stack/laravel.svg",
+      "sourceUrl": "https://laravel.com/"
+    },
+    {
+      "name": "linux",
+      "imageUrl": "/images/tech-stack/linux.svg",
+      "sourceUrl": "https://www.linux.org/"
+    },
+    {
+      "name": "opencv",
+      "imageUrl": "/images/tech-stack/opencv.svg",
+      "sourceUrl": "https://opencv.org/"
+    },
+    {
+      "name": "sklearn",
+      "imageUrl": "/images/tech-stack/sklearn.svg",
+      "sourceUrl": "https://scikit-learn.org/"
+    },
+    {
+      "name": "yolo",
+      "imageUrl": "/images/tech-stack/yolo.svg",
+      "sourceUrl": "https://pjreddie.com/darknet/yolo/"
+    },
+    {
+      "name": "visualstudio",
+      "imageUrl": "/images/tech-stack/visualstudio.svg",
+      "sourceUrl": "https://visualstudio.microsoft.com/"
+    }
+  ]
+}
