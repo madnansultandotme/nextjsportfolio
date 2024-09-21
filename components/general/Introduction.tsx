@@ -40,7 +40,7 @@ export default function Introduction({ animation }: { animation: string }) {
   }
 
   function buildGithubLink() {
-    const text = "madnansultandotme";
+    const text = "Muhammad Adnan Sultan";
     const route = profile.socialMedia.github;
     return (
       <PrimaryLink href={route} color={primaryColor} thickness="2px">
