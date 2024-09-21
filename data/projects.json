@@ -11,7 +11,7 @@
     "imageUrl": "/images/projects/sklive.png",
     "imageIsPortrait": true,
     "techStack": ["Node", "Mongodb", "Sockets.io", "Express"],
-    "sourceUrl": "https://github.com/kevinchangjk/PayScribe"
+    "sourceUrl": "https://github.com/madnansultandotme/"
   },
   {
     "title": "RecognizeMe",
@@ -25,20 +25,21 @@
     "imageUrl": "/images/projects/recognizeme.png",
     "imageIsPortrait": false,
     "techStack": ["Tkinter", "OpenCv", "Facenet", "Flask"],
-    "sourceUrl": "https://github.com/yourusername/recognizeme"
+    "sourceUrl": "https://github.com/madnansultandotme/Recognize-me-by-Face"
   },
   {
     "title": "House Price Prediction",
-    "name": "nft-artzone",
-    "description": "Create and claim NFTs of curated AI art",
+    "name": "house-price-prediction",
+    "description": "A Machine Learning model to predict house prices",
     "overview": [
-      "ArtZone is a platform specially crafted to be a community for AI artists to share their artwork. Here, artists can upload their digital AI art in albums, and viewers can browse through galleries of their art.",
-      "NFT @ ArtZone aims to allow artists to monetize their artwork by providing a bridge for them to market their work as NFTs, through a function known as “Claim Pages”. Artists can deploy an artwork as an Non-Fungible Token (NFT), allowing customers to claim one at a listed price.",
-      "I began work on this from scratch, during an internship in summer 2023, though unfortunately my internship ended before I could complete it. The front-end is built with Next.js and Chakra-UI, and the back-end is hosted through Express.js, and supported with Ethers.js to interact with Solidity smart contracts on the Binance Chain."
+      "House Price Prediction is a project that involves building a machine learning model to predict house prices based on various features such as location, size, and amenities.",
+      "The project uses a dataset of house prices and applies various machine learning algorithms to train the model. The goal is to achieve high accuracy in predicting house prices.",
+      "The model is built using Python and popular libraries such as scikit-learn and pandas. The project also includes a web interface built with Flask to allow users to input features and get price predictions."
     ],
-    "imageUrl": "/images/projects/nft-artzone.png",
+    "imageUrl": "/images/projects/house-price-prediction.png",
     "imageIsPortrait": false,
-    "techStack": ["Next.js", "Express.js", "IPFS", "Ethers.js", "TypeScript"]
+    "techStack": ["Python", "scikit-learn", "pandas", "Flask"],
+    "sourceUrl": "https://github.com/madnansultandotme"
   },
   {
     "title": "Transport Management System",
@@ -51,7 +52,7 @@
     "imageUrl": "/images/projects/transport-management-system.png",
     "imageIsPortrait": true,
     "techStack": ["Node", "Firebase", "Express", "Ejs"],
-    "sourceUrl": "https://github.com/VMP-SG/TransportManagementSystem"
+    "sourceUrl": "https://github.com/madnansultandotme/admin-dashboard"
   },
   {
     "title": "Share Url Bitly",
@@ -65,7 +66,7 @@
     "imageUrl": "/images/projects/share-url-bitly.png",
     "imageIsPortrait": false,
     "techStack": ["PHP", "BitlyAPI", "Wordpress"],
-    "sourceUrl": "https://github.com/Onlyfriendz/share-url-bitly"
+    "sourceUrl": "https://github.com/madnansultandotme/Share-Url-Bitly-Plugin"
   },
   {
     "title": "E-Commerce Website",
@@ -78,7 +79,7 @@
     "imageUrl": "/images/projects/e-commerce-website.png",
     "imageIsPortrait": false,
     "techStack": ["React", "Redux", "Node.js", "Express", "MongoDB"],
-    "sourceUrl": "https://github.com/VMP-SG/CraiyoNFT"
+    "sourceUrl": "https://github.com/madnansultandotme/"
   },
   {
     "title": "Portfolio Website",
@@ -91,7 +92,7 @@
     "imageUrl": "/images/projects/portfolio-website.png",
     "imageIsPortrait": false,
     "techStack": ["Next.js", "React", "Chakra-UI"],
-    "sourceUrl": "https://github.com/yourusername/portfolio-website"
+    "sourceUrl": "https://github.com/madnansultandotme/nextjsportfolio"
   }
   ,
   {
@@ -105,6 +106,6 @@
     "imageUrl": "/images/projects/assignment-management-system.png",
     "imageIsPortrait": false,
     "techStack": ["Java", "JavaSwing", "Jdbc", "mysql"],
-    "sourceUrl": "https://github.com/AY2223S1-CS2103T-T15-1/tp"
+    "sourceUrl": "https://github.com/madnansultandotme/"
   }
 ]
